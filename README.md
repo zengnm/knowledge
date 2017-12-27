@@ -1,1 +1,8 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+这篇文档，是写者在学习、工作中的个人笔记，总结的同时，也能备忘。
+
+如果你正在查找相关资料，正好在本文中有所提及并对你有所帮助，那是我的荣幸。
+
+因个人能力有限，文中必有错误或疏漏，请不吝指正。
+
+
+
