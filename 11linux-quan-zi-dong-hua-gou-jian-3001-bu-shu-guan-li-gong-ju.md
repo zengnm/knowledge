@@ -6,7 +6,7 @@
 
 * 本工具完全由shell写成，解决最常见的问题，适合所有linux平台，几乎不会多耗费其他资源，敏捷快速。永久开源维护地址：[https://github.com/zengnm/manager.git，欢迎fork或拍砖。](https://github.com/zengnm/manager.git，欢迎fork或拍砖。)
 
-  ## 一、使用说明
+## 一、使用说明
 
   #### 功能特点:
 
